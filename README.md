@@ -1,4 +1,4 @@
-# Foundation Compass Template
+# Foundation Compass Template #wow
 
 The easiest way to get started with Foundation + Compass.
 
